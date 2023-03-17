@@ -1,0 +1,13 @@
+az\perfect\bean\Person.class
+az\perfect\service\impl\MenuShowTeacher.class
+az\perfect\service\impl\MenuAddTeacher.class
+az\perfect\service\impl\MenuLoginService.class
+az\perfect\service\impl\MenuUnknownService.class
+az\perfect\util\Menu.class
+az\perfect\bean\Teacher.class
+az\perfect\bean\Config.class
+az\perfect\util\MenuUtil.class
+az\perfect\bean\Student.class
+az\perfect\service\impl\MenuRegisterService.class
+az\perfect\main\StudentManagementSystem.class
+az\perfect\service\inter\MenuService.class
